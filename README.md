@@ -30,6 +30,8 @@ The extensions have been evaluated in multiple academic publications such as:
 > Marco Solieri, Tomasz Kloda, Marko Bertogna, Michal Sojka, Maxim Baryshnikov,
 > "D5. 3: Integrated schedulability analysis",
 > Deliverable of the HERCULES project, 2018
+> Archived at
+> https://web.archive.org/web/20220809165917/http://hercules2020.eu/wp-content/uploads/2016/04/D5.3_Integrated_Schedulability_Analysis_Final.pdf
 
 > Tomasz Kloda, Marco Solieri, Renato Mancuso, Nicola Capodieci, Paolo Valente,
 > Marko Bertogna,
