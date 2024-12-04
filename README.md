@@ -27,6 +27,10 @@ centers and universities:
 
 The extensions have been evaluated in multiple academic publications such as:
 
+> Marco Solieri, Tomasz Kloda, Marko Bertogna, Michal Sojka, Maxim Baryshnikov,
+> "D5. 3: Integrated schedulability analysis",
+> Deliverable of the HERCULES project, 2018
+
 > Tomasz Kloda, Marco Solieri, Renato Mancuso, Nicola Capodieci, Paolo Valente,
 > Marko Bertogna,
 > "Deterministic Memory Hierarchy and Virtualization for Modern Multi-Core
