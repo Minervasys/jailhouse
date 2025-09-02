@@ -49,7 +49,7 @@ int smccc_discover(void)
 	if (ret != ARM_SMCCC_SUCCESS)
 		return sdei_available ? trace_error(-EIO) : 0;
 
-#ifndef CONFIG_MACH_RK3588
+#ifdef CONFIG_MACH_RK3588
 	sdei_available = false;
 #else
 #ifdef __aarch64__
